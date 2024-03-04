@@ -241,20 +241,20 @@ sections:
       #phone: 888 888 88 88
       appointment_url: 'https://calendly.com/ali-niazi'
       address:
-        street: 618 Campus Place
+        street: 2500 University Drive NW
         city: Calgary
         region: AB
         postcode: 'T2N 4V8'
         country: Canada
         country_code: CA
-      directions: Enter Social Sciences building and take the elevator to Office 447 on Floor 4
-      office_hours:
-        - 'Monday 10:00 to 13:00'
-        - 'Wednesday 10:00 to 13:00'
+      #directions: Enter Social Sciences building and take the elevator to Office 447 on Floor 4
+      #office_hours:
+      #  - 'Monday 10:00 to 13:00'
+      #  - 'Wednesday 10:00 to 13:00'
       # Choose a map provider in `params.yaml` to show a map from these coordinates
-      coordinates:
-        latitude: '51.07917'
-        longitude: '-114.12691'  
+      #coordinates:
+      #  latitude: '51.07917'
+      #  longitude: '-114.12691'  
       contact_links:
         - icon: twitter
           icon_pack: fab
