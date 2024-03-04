@@ -237,9 +237,9 @@ sections:
       text: |-
          I'm always open to discussing new research opportunities, collaborations, or simply exchanging ideas about the fascinating world of Economics. If you have any questions, suggestions, or just want to say hello, please don't hesitate to reach out. Your thoughts and inquiries are welcome!
       # Contact (add or remove contact options as necessary)
-      email: ali.niazi@ucalgary.ca
+      email: ali.niazi[at]ucalgary.ca
       #phone: 888 888 88 88
-      appointment_url: 'https://calendly.com'
+      appointment_url: 'https://calendly.com/ali-niazi'
       address:
         street: 618 Campus Place
         city: Calgary
@@ -247,7 +247,7 @@ sections:
         postcode: 'T2N 4V8'
         country: Canada
         country_code: CA
-      directions: Enter Building 1 and take the stairs to Office 200 on Floor 2
+      directions: Enter Social Sciences building and take the elevator to Office 447 on Floor 4
       office_hours:
         - 'Monday 10:00 to 13:00'
         - 'Wednesday 10:00 to 13:00'
