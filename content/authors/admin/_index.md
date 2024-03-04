@@ -1,13 +1,13 @@
 ---
 # Display name
-title: 吳健雄
+title: Ali Niazi
 
 # Name pronunciation (optional)
-name_pronunciation: Chien Shiung Wu
+#name_pronunciation: Ali Niazi
 
 # Full name (for SEO)
-first_name: Shiung Wu
-last_name: Chien
+first_name: Ali
+last_name: Niazi
 
 # Status emoji
 status:
@@ -17,34 +17,34 @@ status:
 superuser: true
 
 # Role/position/tagline
-role: Professor of Artificial Intelligence
+role: PhD Student
 
 # Organizations/Affiliations to show in About widget
 organizations:
-  - name: Stanford University
-    url: https://www.stanford.edu/
+  - name: University of Calgary
+    url: https://econ.ucalgary.ca/manageprofile/profiles/1-10035867
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include distributed robotics, mobile computing and programmable matter.
+#bio: My research interests include distributed robotics, mobile computing and programmable matter.
 
 # Interests to show in About widget
 interests:
-  - Artificial Intelligence
-  - Computational Linguistics
-  - Information Retrieval
+  - Energy Economics
+  - Electricity Markets
+  - Climate Policies
 
 # Education to show in About widget
 education:
   courses:
-    - course: PhD in Artificial Intelligence
-      institution: Stanford University
-      year: 2012
-    - course: MEng in Artificial Intelligence
-      institution: Massachusetts Institute of Technology
-      year: 2009
-    - course: BSc in Artificial Intelligence
-      institution: Massachusetts Institute of Technology
-      year: 2008
+    - course: PhD in Economics
+      institution: University of Calgary
+      year: 2026
+    - course: MSc in Economics
+      institution: Sharif University of Technology
+      year: 2020
+    - course: BSc in Electrical Engineering 
+      institution: Ferdowsi University of Mashhad
+      year: 2017
 
 # Skills
 # For available icons, see: https://docs.hugoblox.com/getting-started/page-builder/#icons
@@ -96,19 +96,19 @@ social:
     link: '/#contact'
   - icon: twitter
     icon_pack: fab
-    link: https://twitter.com/GeorgeCushen
+    link: https://twitter.com/niaziale
     label: Follow me on Twitter
     display:
       header: true
   - icon: graduation-cap # Alternatively, use `google-scholar` icon from `ai` icon pack
     icon_pack: fas
-    link: https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ
+    link: https://scholar.google.com/citations?user=W-CF9MQAAAAJ&hl=en
   - icon: github
     icon_pack: fab
-    link: https://github.com/gcushen
+    link: https://github.com/niazi-ali
   - icon: linkedin
     icon_pack: fab
-    link: https://www.linkedin.com/
+    link: https://www.linkedin.com/in/ali-niazi-01b15367/
   # Link to a PDF of your resume/CV.
   # To use: copy your resume to `static/uploads/resume.pdf`, enable `ai` icons in `params.yaml`,
   # and uncomment the lines below.
@@ -120,5 +120,5 @@ social:
 highlight_name: true
 ---
 
-Chien Shiung Wu is a professor of artificial intelligence at the Stanford AI Lab. Her research interests include distributed robotics, mobile computing and programmable matter. She leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
+Ali Niazi is a PhD student in Economics at the University of Calgary. His research interests include Energy Economics, Electricity Markets, and Climate Policies. He also works as a Research Analyst at the Energy Futures Lab, where he plays a pivotal role in Alberta’s Electricity Future initiative, aimed at driving the province toward a net-zero electricity system.
 {style="text-align: justify;"}
