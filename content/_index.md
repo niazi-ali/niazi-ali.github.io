@@ -121,7 +121,7 @@ sections:
     design:
       columns: '2'
   - block: collection
-  #id: featured
+    id: pub
     content:
       title: Recent Publications
       #text: |-
