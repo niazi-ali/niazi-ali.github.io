@@ -78,6 +78,21 @@ sections:
           description: Taught electronic engineering and researched semiconductor physics.
     design:
       columns: '2'
+  - block: collection
+    id: pub
+    content:
+      title: Recent Publications
+      #text: |-
+      #  {{% callout note %}}
+      #  Quickly discover relevant content by [filtering publications](./publication/).
+      #  {{% /callout %}}
+      filters:
+        folders:
+          - publication
+        exclude_featured: true
+    design:
+      columns: '2'
+      view: citation
   - block: accomplishments
     content:
       # Note: `&shy;` is used to add a 'soft' hyphen in a long heading.
@@ -120,21 +135,6 @@ sections:
           url: ''
     design:
       columns: '2'
-  - block: collection
-    id: pub
-    content:
-      title: Recent Publications
-      #text: |-
-      #  {{% callout note %}}
-      #  Quickly discover relevant content by [filtering publications](./publication/).
-      #  {{% /callout %}}
-      filters:
-        folders:
-          - publication
-        exclude_featured: true
-    design:
-      columns: '2'
-      view: citation
   - block: contact
     id: contact
     content:
