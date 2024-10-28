@@ -29,9 +29,9 @@ organizations:
 
 # Interests to show in About widget
 interests:
-  - Energy Economics
-  - Electricity Markets
-  - Climate Policies
+  - Energy and Environmental Economics
+  - Empirical Industrial Organization
+  - Applied Econometrics
 
 # Education to show in About widget
 education:
@@ -84,5 +84,5 @@ social:
 highlight_name: true
 ---
 
-Ali Niazi is a PhD student in Economics at the University of Calgary. His research interests include Energy Economics, Electricity Markets, and Climate Policies. He also works as a Research Analyst at the Energy Futures Lab, where he plays a pivotal role in Alberta’s Electricity Future initiative, aimed at driving the province toward a net-zero electricity system.
+Ali Niazi is a Ph.D. candidate in Economics at the University of Calgary, with research interests in energy and environmental economics, empirical industrial organization, and applied econometrics. His work focuses on electricity markets, climate policies, and the transition to sustainable energy systems. Outside academia, he contributes to Alberta’s Electricity Future initiative as a Research Analyst at the Energy Futures Lab, supporting the province’s move toward a net-zero electricity grid. Ali is passionate about applying data-driven research to develop practical policy solutions for a cleaner, more sustainable future.
 {style="text-align: justify;"}
