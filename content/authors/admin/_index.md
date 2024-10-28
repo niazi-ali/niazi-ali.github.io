@@ -17,12 +17,12 @@ status:
 superuser: true
 
 # Role/position/tagline
-role: PhD Student
+role: PhD Candidate
 
 # Organizations/Affiliations to show in About widget
 organizations:
   - name: University of Calgary
-    url: https://econ.ucalgary.ca/manageprofile/profiles/1-10035867
+    url: https://profiles.ucalgary.ca/ali-niazi
 
 # Short bio (displayed in user profile at end of posts)
 #bio: My research interests include distributed robotics, mobile computing and programmable matter.
@@ -84,5 +84,5 @@ social:
 highlight_name: true
 ---
 
-I am a PhD candidate in Economics at the University of Calgary's Department of Economics, with research interests in energy and environmental economics, empirical industrial organization, and applied econometrics. My research focuses on electricity markets, climate policies, and the transition to sustainable energy systems. Outside academia, I work as a Research Analyst at the Energy Futures Lab, contributing to Alberta’s Electricity Future initiative to help the province transition toward a net-zero electricity grid. I’m passionate about applying data-driven research to develop practical policy solutions for a cleaner, more sustainable future.
+I am a PhD candidate in Economics at the University of Calgary's Department of Economics, with research interests in energy and environmental economics, empirical industrial organization, and applied econometrics. Outside academia, I work as a Research Analyst at the Energy Futures Lab, contributing to Alberta’s Electricity Future initiative to help the province transition toward a net-zero electricity grid. I’m passionate about applying data-driven research to develop practical policy solutions for a cleaner, more sustainable future.
 {style="text-align: justify;"}
