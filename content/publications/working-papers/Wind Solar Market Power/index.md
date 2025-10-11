@@ -1,5 +1,5 @@
 ---
-title: 'Strategic behavior in deregulated power markets with renewable expansion'
+title: 'Strategic behavior in restructured power markets with renewable expansion'
 
 # Authors
 authors:
