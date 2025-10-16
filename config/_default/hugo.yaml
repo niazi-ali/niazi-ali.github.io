@@ -18,6 +18,10 @@ removePathAccents: true
 ############################
 ## ADVANCED
 ############################
+# config/_default/hugo.yaml  (or your root hugo.yaml)
+disableKinds:
+  - taxonomy   # disables /tags/ and /tags/<term>/ pages
+  - term
 
 build:
   writeStats: true
