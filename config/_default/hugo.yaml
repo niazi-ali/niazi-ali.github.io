@@ -41,7 +41,7 @@ imaging:
 timeout: 600000
 taxonomies:
   author: authors
-  tag: tags
+  tag: null
   publication_type: publication_types
 markup:
   _merge: deep
