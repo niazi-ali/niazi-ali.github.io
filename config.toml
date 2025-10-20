@@ -1,0 +1,11 @@
+baseURL = "https://aliniazi.com/"
+title = "Niazi Ali"
+languageCode = "en-us"
+theme = "hugblox-academic-cv"
+
+# Replace deprecated paginate with pagerSize
+[pagination]
+pagerSize = 10
+
+# Minimal Google Analytics key to prevent template errors
+GoogleAnalytics = ""
