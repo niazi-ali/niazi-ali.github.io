@@ -19,7 +19,7 @@ date: '2025-01-01T00:00:00Z'
 
 # Publication type.
 # Accepts a single type but formatted as a YAML list (for Hugo requirements).
-publication_types: ['Journal article']
+publication_types: ["article"]
 
 # Publication name and optional abbreviated publication name.
 #publication: In *Review of Financial Economics*

@@ -1,5 +1,5 @@
 ---
-title: 'Strategic behavior in restructured power markets with renewable expansion'
+title: 'Renewable expansion and strategic behavior in restructured power markets'
 
 # Authors
 authors:
