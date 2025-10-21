@@ -179,7 +179,7 @@ work:
 Ali Niazi is a PhD candidate in Economics at the University of Calgary, with research interests in energy and environmental economics, empirical industrial organization, and applied microeconomics.
 {style="text-align: justify;"}
 
-His job market paper investigates how renewable technologies—wind and solar—shape firm behavior and market outcomes in electricity markets, with implications for optimal market design and policy. His broader research agenda explores transportation electrification, including electric vehicle adoption and charging behavior, to inform infrastructure planning, system operation, and policy development.
+Ali's job market paper investigates how renewable technologies—wind and solar—shape firm behavior and market outcomes in electricity markets, with implications for optimal market design and policy. His broader research agenda explores transportation electrification, including electric vehicle adoption and charging behavior, to inform infrastructure planning, system operation, and policy development.
 {style="text-align: justify;"}
 
 Ali brings practical expertise to his research through his role as a Market Fundamentals Analyst at the Alberta Electric System Operator (AESO). He has also contributed to field experiments on demand response programs and EV managed charging as a research assistant. He has collaborated with the Energy Futures Lab on electricity-sector modernization and with the Smart Prosperity Institute on policies to enhance local competitiveness in the clean economy.
