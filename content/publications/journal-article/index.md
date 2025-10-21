@@ -1,5 +1,5 @@
 ---
-title: 'Credit rating agencies during credit crunch'
+title: 'Credit Rating Agencies During Credit Crunch'
 
 # Authors
 authors:

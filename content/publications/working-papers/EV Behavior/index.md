@@ -1,5 +1,5 @@
 ---
-title: 'Electric vehicle charging and driving behavior'
+title: 'Electric Vehicle Charging and Driving Behavior'
 
 # Authors
 authors:

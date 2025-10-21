@@ -1,5 +1,5 @@
 ---
-title: 'Do gasoline prices influence electric vehicle usage? Evidence from the U.S.'
+title: 'Do Gasoline Prices Influence Electric Vehicle Usage? Evidence From the U.S.'
 
 # Authors
 authors:
