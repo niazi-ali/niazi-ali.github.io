@@ -47,17 +47,18 @@ sections:
       title: Working Papers
       filters:
         folders:
-          - publications
+          - publication
         featured_only: true
     design:
       view: citation
+
   - block: collection
+    id: recent-pubs
     content:
       title: Recent Publications
-      text: ''
       filters:
         folders:
-          - publications
+          - publication
         exclude_featured: true
     design:
       view: citation
@@ -69,9 +70,9 @@ sections:
       filters:
         folders:
           - projects
-        exclude_featured: true
+        exclude_featured: false
     design:
-      view: portfolio
+      view: citation
 #  - block: collection
 #    id: talks
 #    content:
