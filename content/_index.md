@@ -71,7 +71,7 @@ sections:
           - projects
         exclude_featured: true
     design:
-      view: showcase
+      view: portfolio
 #  - block: collection
 #    id: talks
 #    content:
