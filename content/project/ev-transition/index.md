@@ -22,4 +22,5 @@ image:
   filename: thumb.jpg
   focal_point: Center
   caption: ''
+  preview_only: true
 ---

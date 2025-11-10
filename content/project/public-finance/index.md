@@ -1,6 +1,6 @@
 ---
 title: 'RA for “From Bonds to Banknotes—Central Banking and Public Finances in Canada” by Trevor Tombe (Canadian Tax Journal, 2023)'
-summary: Research assistance on historical Bank of Canada balance sheets (1935–present) and implications for federal public finance, featured in Finances of the Nation.
+summary: Research assistance for From Bonds to Banknotes-Central Banking and Public Finances in Canada.
 date: 2023-09-01
 featured: false
 draft: false
@@ -13,4 +13,5 @@ image:
   filename: thumb.jpg
   focal_point: Center
   caption: ''
+  preview_only: true
 ---
