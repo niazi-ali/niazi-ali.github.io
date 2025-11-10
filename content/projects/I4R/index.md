@@ -14,8 +14,9 @@ publication: 'Revise & Resubmit, Nature'
 publication_short: 'R&R, Nature'
 
 summary: Systematic reproduction and robustness analysis of 110 recent articles in leading economics and political science journals.
-featured: true
+featured: false
 draft: false
+share: false
 
 # Links (fill in as available)
 url_pdf: 'https://www.econstor.eu/bitstream/10419/289437/1/I4R-DP107.pdf'   # preprint
