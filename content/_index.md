@@ -69,10 +69,11 @@ sections:
       text: ''
       filters:
         folders:
-          - projects
+          - project
         exclude_featured: false
     design:
-      view: citation
+      view: compact
+      show_image: false
 #  - block: collection
 #    id: talks
 #    content:
