@@ -61,6 +61,17 @@ sections:
         exclude_featured: true
     design:
       view: citation
+  - block: collection
+    id: selected-projects
+    content:
+      title: Selected Projects
+      text: ''
+      filters:
+        folders:
+          - projects
+        exclude_featured: true
+    design:
+      view: showcase
 #  - block: collection
 #    id: talks
 #    content:
