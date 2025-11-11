@@ -56,7 +56,7 @@ education:
   - area: PhD in Economics
     institution: University of Calgary
     date_start: 
-    date_end: 2026-08-31
+    date_end: 2026-06-30
     summary: | 
       
 #    button:
@@ -107,6 +107,36 @@ work:
     date_start: 2021-09-01
     date_end: 2025-05-31
     summary: |
+
+  - position: Sessional Instructor
+    company_name: University of Calgary
+    company_url: ''
+    company_logo: ''
+    date_start: 2025-05-01
+    date_end: 2025-06-29
+    summary: |
+      • Computer Applications in Economics (ECON 311)
+
+  - position: Sessional Instructor
+    company_name: University of Calgary
+    company_url: ''
+    company_logo: ''
+    date_start: 2024-05-01
+    date_end: 2024-06-23
+    summary: |
+      • Computer Applications in Economics (ECON 311)
+
+  - position: Teaching Assistant
+    company_name: University of Calgary
+    company_url: ''
+    company_logo: ''
+    date_start: 2021-05-01
+    date_end: 2025-08-12
+    summary: |
+      - Principles of Microeconomics — 3 terms
+      - Macroeconomics II — 2 terms
+      - Engineering Economics — 1 term
+      - Computer Applications in Economics — 7 terms
 
 # Skills
 # Add your own SVG icons to `assets/media/icons/`
