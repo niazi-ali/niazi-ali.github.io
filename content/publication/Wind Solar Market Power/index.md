@@ -42,9 +42,9 @@ featured: true
 #    doi: 10.1002/rfe.1192
 
 # Custom links
-#links:
-#  - type: pdf
-#    url: ""
+links:
+  - type: pdf
+    url: "https://www.dropbox.com/scl/fi/02mp7l3fo464dqaafvbdg/Renewable_Expansion_Paper.pdf?rlkey=o548af6papy0rh8goxka4hsa2&st=jtx15fux&dl=0"
 #  - type: code
 #    url: ""
 #  - type: dataset
