@@ -11,7 +11,7 @@ authors:
 #   - 'Equal contribution'
 #   - 'Equal contribution'
 
-date: '2025-09-01T00:00:00Z'
+date: '2025-10-01T00:00:00Z'
 
 weight: 1
 
@@ -26,7 +26,7 @@ publication_types: ["preprint"]
 #publication: In *Review of Financial Economics*
 #publication_short: Review of Financial Economics
 
-abstract: This paper quantifies how wind and solar expansion shape wholesale prices, market power, and generator profitability. Using data from Alberta's energy-only market, I construct an hourly cost-based competitive benchmark and decompose observed price movements into cost and markup components. Theoretically, zero-marginal-cost renewables owned by fringe, price-taking firms lower competitive prices, while under imperfect competition, the response of markup above the competitive price is ambiguous. Empirically, I show that wind lowers prices in every hour, with roughly 40% of the decline from markup compression. Solar reduces midday prices and markups but raises prices in the morning and evening as capacity tightens, with roughly one-third of those ramp-hour increases reflecting higher markups. Accounting for intraday spillovers, wind remains pro-competitive across the day, whereas solar's predictable ramps shift the scope for market power into morning and evening hours. Counterfactual capacity additions indicate a shift in value from energy to flexibility. Inframarginal rents for renewables and baseload combined-cycle units fall, while scarcity rents concentrate into fewer hours that favor fast-ramping units and storage. Wind increases consumer welfare via lower markups, while solar's ramp-hour markup increases partially offset midday gains. Importantly, adding zero-marginal-cost supply is not, by itself, a cure for market power. Robust market design and flexible resources are essential to keep decarbonizing grids competitive and reliable.
+abstract: The expansion of renewable energy is reshaping price formation and strategic behavior in restructured electricity markets. This paper quantifies how wind and solar affect wholesale prices, market power, and generator profitability. I find that renewables lower average wholesale prices, but their effects on prices and market power are heterogeneous throughout the day. Wind reduces prices and markups in most hours, with larger impacts during high-demand hours. Solar, however, exhibits asymmetric effects: it reduces midday prices and markups but increases them during some morning and evening hours, creating new opportunities for strategic behavior. Counterfactual capacity scenarios show renewable expansion shifts value from energy to flexibility. Inframarginal rents for renewables and baseload combined-cycle units fall, while scarcity rents concentrate into fewer hours that favor fast-ramping units and storage. These findings demonstrate that adding renewable supply does not eliminate market power. Robust market design and flexible resources are essential to keep decarbonizing grids competitive and reliable.
 
 # Summary. Optional shortened abstract.
 # summary: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum.
