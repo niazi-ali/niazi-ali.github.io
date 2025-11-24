@@ -41,9 +41,9 @@ featured: true
 #    doi: 10.1002/rfe.1192
 
 # Custom links
-links:
-  - type: pdf
-    url: "https://www.dropbox.com/scl/fi/qebv2bwc8m6zqb5nfqgk0/EV_Elasticity_Paper.pdf?rlkey=stavmk1sg8jocyw8p2203c10z&st=7px4yfvz&dl=0"
+#links:
+#  - type: pdf
+#    url: "https://www.dropbox.com/scl/fi/qebv2bwc8m6zqb5nfqgk0/EV_Elasticity_Paper.pdf?rlkey=stavmk1sg8jocyw8p2203c10z&st=7px4yfvz&dl=0"
 #  - type: code
 #    url: ""
 #  - type: dataset
