@@ -8,7 +8,7 @@ share: false
 links:
   - type: source
     name: 'DOI: 10.32721/ctj.2023.71.3.fon'
-    url: 'https://doi.org/10.32721/ctj.2023.71.3.fon'
+    url: 'https://www.trevortombe.com/publication/bonds_banknotes/'
 image:
   filename: thumb.jpg
   focal_point: Center

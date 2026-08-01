@@ -34,7 +34,7 @@ organizations:
 # Need to use another icon? Simply download the SVG icon to your `assets/media/icons/` folder.
 profiles:
   - icon: at-symbol
-    url: 'mailto:ali.niazi[dot]@ucalgary.ca'
+    url: 'mailto:ali.niazi@ucalgary.ca'
     label: E-mail Me
   - icon: brands/x
     url: https://x.com/niaziale
@@ -80,7 +80,6 @@ education:
 work:
   - position: Market Fundamentals Analyst
     company_name: Alberta Electric System Operator (AESO)
-    company_url: 'https://ai.meta.com/'
     company_logo: ''
     date_start: 2025-06-01
     date_end: ''
@@ -88,7 +87,6 @@ work:
 
   - position: Research Analyst
     company_name: Energy Futures Lab
-    company_url: 'https://openai.com/'
     company_logo: ''
     date_start: 2024-01-01
     date_end: 2025-05-31
@@ -214,4 +212,3 @@ My job market paper investigates how renewable technologies (wind and solar) sha
 
 I bring practical expertise to my research from my experience as a Market Fundamentals Analyst at the Alberta Electric System Operator (AESO). As a research assistant, I contributed to field experiments on demand-response programs and managed EV charging. I have also collaborated with the Energy Futures Lab on electricity-sector modernization and with the Smart Prosperity Institute on policies aimed at enhancing local competitiveness in the clean economy.
 {style="text-align: justify;"}
-
