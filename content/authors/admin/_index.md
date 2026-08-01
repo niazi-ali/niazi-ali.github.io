@@ -23,7 +23,7 @@ superuser: true
 highlight_name: false
 
 # Role/position/tagline
-role: PhD Candidate
+role: ''
 
 # Organizations/Affiliations to display in Biography blox
 organizations:
@@ -211,11 +211,5 @@ work:
 #      Recognized for contributions to scaling laws in deep learning.
 ---
 
-I am a PhD candidate in Economics at the University of Calgary with research interests in energy and environmental economics, empirical industrial organization, and applied microeconomics. I am on the 2025–26 academic job market.
-{style="text-align: justify;"}
-
-My job market paper investigates how renewable technologies (wind and solar) shape firm behavior and market outcomes in electricity markets, with implications for optimal market design and policy. My broader research agenda explores demand-side management and transportation electrification, including electric-vehicle adoption and charging behavior, to inform infrastructure planning, system operation, and policy development.
-{style="text-align: justify;"}
-
-I bring practical expertise to my research from my experience as a Market Fundamentals Analyst at the Alberta Electric System Operator (AESO). As a research assistant, I contributed to field experiments on demand-response programs and managed EV charging. I have also collaborated with the Energy Futures Lab on electricity-sector modernization and with the Smart Prosperity Institute on policies aimed at enhancing local competitiveness in the clean economy.
+Ali Niazi is a PhD graduate in Economics from the University of Calgary. His research interests include energy and environmental economics, empirical industrial organization, and applied microeconomics, with a focus on electricity markets, data centers, demand-side management, and electrification.
 {style="text-align: justify;"}
