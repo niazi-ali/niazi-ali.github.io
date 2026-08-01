@@ -85,6 +85,13 @@ work:
     date_end: ''
     summary: |
 
+  - position: Market Fundamentals Analyst
+    company_name: Alberta Electric System Operator (AESO)
+    company_logo: ''
+    date_start: 2025-06-01
+    date_end: 2026-03-31
+    summary: |
+
   - position: Research Analyst
     company_name: Energy Futures Lab
     company_logo: ''
