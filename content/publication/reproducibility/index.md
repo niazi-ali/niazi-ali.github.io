@@ -5,24 +5,28 @@ authors:
   - Derek Mikola
   - Nikolai Cook
   - Lenka Fiala
-  - admin     
+  - Ali Niazi
   - et al.
-date: '2025-05-24T00:00:00-06:00'
+date: '2026-04-01T00:00:00-06:00'
 
 
-publication_types: ['preprint']  # keeps it under Working Papers/Preprints
-publication: Revise & Resubmit, Nature
+publication_types: ['article-journal']
+publication: Nature, 652, 151–156
 
 summary: Systematic reproduction and robustness analysis of 110 recent articles in leading economics and political science journals.
 draft: false
 share: false
 
-featured: true
+featured: false
+
+hugoblox:
+  ids:
+    doi: 10.1038/s41586-026-10251-x
 
 # Links
 links:
   - type: pdf
-    url: 'https://www.econstor.eu/bitstream/10419/289437/1/I4R-DP107.pdf'
+    url: 'https://doi.org/10.1038/s41586-026-10251-x'
 
-abstract: This systematic and large-scale reproduction effort provides the first evidence of the reproducibility and robustness of economics and political science fields. We reproduced and conducted robustness analysis of 110 articles recently published in leading economics and political science journals. We first find that 84% of published claims can be computationally reproduced. Second, our re-analyses lead to 79% of statistically significant estimates to remain statistically significant in the same direction. Third, the median reproduction’s effect size is 100% the originally published effect size. Fourth, six independent research teams examined 12 pre-specified hypotheses about determinants of reproducibility and robustness. They found a negative relationship between reproducers’ experience and reproducibility, but no relationship between reproducibility and author characteristics or data availability.
+abstract: This systematic and large-scale reproduction effort tests the reproducibility and robustness of economics and political science. We reproduced original analyses and conducted robustness checks of 110 articles recently published in leading economics and political science journals. Over 85% of published claims were computationally reproducible, while 72% of statistically significant estimates remained significant and in the same direction after re-analysis.
 ---
