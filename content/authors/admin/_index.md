@@ -78,10 +78,10 @@ education:
      
 
 work:
-  - position: Market Fundamentals Analyst
+  - position: Market Design Analyst
     company_name: Alberta Electric System Operator (AESO)
     company_logo: ''
-    date_start: 2025-06-01
+    date_start: 2026-04-01
     date_end: ''
     summary: |
 
